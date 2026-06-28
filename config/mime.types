@@ -1,0 +1,45 @@
+# ============================================
+# MIME 类型定义
+# ============================================
+
+types {
+    text/html                             html htm shtml;
+    text/css                              css;
+    text/xml                              xml;
+    image/gif                             gif;
+    image/jpeg                            jpeg jpg;
+    image/png                             png;
+    image/svg+xml                         svg svgz;
+    image/webp                            webp;
+    image/ico                             ico;
+    image/bmp                             bmp;
+    application/javascript                js;
+    application/json                      json;
+    application/xml                       xml;
+    application/xhtml+xml                 xhtml;
+    application/rss+xml                   rss;
+    application/atom+xml                  atom;
+    application/vnd.ms-fontobject         eot;
+    font/ttf                              ttf;
+    font/otf                              otf;
+    font/woff                             woff;
+    font/woff2                            woff2;
+    application/pdf                       pdf;
+    application/zip                       zip;
+    application/gzip                      gz;
+    application/octet-stream              bin exe dll deb dmg iso img msi msm msp;
+    audio/mpeg                            mp3 mpga;
+    audio/ogg                             ogg oga;
+    audio/wav                             wav;
+    audio/webm                            weba;
+    video/mp4                             mp4 m4v;
+    video/mpeg                            mpg mpeg;
+    video/ogg                             ogv;
+    video/webm                            webm;
+    video/x-flv                           flv;
+    video/x-msvideo                       avi;
+    text/plain                            txt conf log;
+    text/x-component                      htc;
+    application/x-httpd-php-source        phps;
+    application/wasm                      wasm;
+}
